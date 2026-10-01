@@ -6,7 +6,7 @@ A high-performance, vibrant, and interactive fluid background component built wi
 
 ---
 
-## 🎥 Preview & Screencast
+## 🎥 Preview
 
 Below are live recordings of the dynamic fluid shader background in action:
 
