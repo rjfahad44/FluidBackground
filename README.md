@@ -11,7 +11,7 @@ A high-performance, vibrant, and interactive fluid background component built wi
 Below are live recordings of the dynamic fluid shader background in action:
 
 <p align="center">
-  <img src="demo/Screencast From 2026-10-01 11-07-10.webm" alt="PhysicsTodo Demo Video" width="300" />
+  <img src="demo/ScreencastFrom2026-10-0111-07-10.gif" alt="PhysicsTodo Demo Video" width="300" />
 </p>
 
 ---
