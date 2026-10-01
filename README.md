@@ -10,13 +10,9 @@ A high-performance, vibrant, and interactive fluid background component built wi
 
 Below are live recordings of the dynamic fluid shader background in action:
 
-| Screencast 1 | Screencast 2 |
-| :---: | :---: |
-| <video src="demo/Screencast%20From%202026-10-01%2011-07-10.webm" controls autoplay loop muted width="320"></video> | <video src="demo/Screencast%20From%202026-10-01%2011-10-52.webm" controls autoplay loop muted width="320"></video> |
-
-> 📌 *Direct links to demo files:*
-> - [Demo Screencast 1](demo/Screencast%20From%202026-10-01%2011-07-10.webm)
-> - [Demo Screencast 2](demo/Screencast%20From%202026-10-01%2011-10-52.webm)
+<p align="center">
+  <img src="demo/Screencast From 2026-10-01 11-07-10.webm" alt="PhysicsTodo Demo Video" width="300" />
+</p>
 
 ---
 
